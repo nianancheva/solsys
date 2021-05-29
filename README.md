@@ -1,4 +1,4 @@
-# solsys
+# READ FIRST
 The planets in The Solar system
 
 To open the website in a browser, download the ZIP file from the repository.
