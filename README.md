@@ -9,4 +9,4 @@ Mobile version not supported.
 
 Contact the author to request editing rights.
 
-e-mail: niaplnan.business@gmail.com
+E-mail: niaplnan.business@gmail.com
